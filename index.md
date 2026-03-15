@@ -8,7 +8,8 @@
 
 _Descreva o problema observado de forma clara e objetiva. Responda: quem tem esse problema, com que frequência acontece e quais são as consequências de não resolvê-lo._
 
-> ...
+> A organização da escala de louvor em igrejas muitas vezes é feita de forma manual, por meio de planilhas ou mensagens em grupos. Isso acontece semanalmente e pode gerar problemas como falta de confirmação dos participantes, conflitos de disponibilidade e mudanças de última hora.
+Como consequência, os líderes gastam muito tempo organizando a escala e podem ocorrer falhas de comunicação que prejudicam a organização do culto.
 
 ---
 
@@ -25,7 +26,7 @@ _Quem é afetado por esse problema? Descreva o perfil da pessoa que mais sofre c
 
 _O que o público-alvo espera **ganhar** com uma solução? Pense em tempo economizado, dor eliminada, ganho financeiro, sensação de controle, status, etc._
 
-> ...
+> O público-alvo espera ganhar mais organização e praticidade na gestão das escalas, reduzindo o tempo gasto na criação e comunicação com os voluntários. Também espera ter maior controle sobre confirmações de presença, evitar conflitos de agenda e garantir que todos os membros da equipe estejam informados sobre suas responsabilidades com antecedência.
 
 ---
 
