@@ -35,9 +35,9 @@ _Liste produtos ou serviços que já tentam resolver esse problema (total ou par
 
 | Solução         | Categoria (SaaS, app, serviço...) | Resolve bem? |
 |-----------------|-----------------------------------|--------------|
-|   Planning Center Services         |    serviço         |              |
-|    Church digital           |       App                    |              |
-|                 |                                   |              |
+|   Planning Center Services         |    serviço         |     Altissima em igrejas que tem planejamento antecipado , alem de ser gratis         |
+|    Church digital           |       App                    |     excelente em retenção de voluntarios , centralização da vida da igreja         |
+|         Prover        |    App                               |     Otima para igrejas que precisa de ferramenta "All in one"        |
 
 ---
 
@@ -57,9 +57,9 @@ _Quais métricas indicam que o produto está resolvendo o problema? Inclua bench
 
 | Indicador          | O que mede              | Benchmark de mercado |
 |--------------------|-------------------------|----------------------|
-|      Percentual de confirmação de presença na escala.             |                         |                      |
-|      Redução de conflitos de escala              |                         |                      |
-|      Tempo gasto para montar a escala semanal              |                         |                      |
+|      Percentual de confirmação de presença na escala.             |       quantas pessoas da escala poderão participar               |            Entre 80% a 95% de confirmaçoes da escala (planning center)          |
+|      Redução de conflitos de escala              |      Quantos problemas correm na escala                   |     Menos de 5% de escalas com problemas                 |
+|      Tempo gasto para montar a escala semanal              |      Quanto tempo o lider demora para montar escala                   |              Entre 10 e 30 minutos para montar uma escala        |
 
 ---
 
