@@ -18,10 +18,10 @@ _Quem é afetado por esse problema? Descreva o perfil da pessoa que mais sofre c
 
 | Campo                             | Descrição |
 |-----------------------------------|-----------|
-| Perfil                            | cuidadores da multimidia das igrejas    |
+| Perfil                            | Usuários da multimidia das igrejas    |
 | Faixa etária                      |  18-60  |
-| Contexto de uso                   |           |
-| **Benefícios esperados do produto** |         |
+| Contexto de uso                   | Utilizado para facilitar a difusão da escala da multimidia        |
+| **Benefícios esperados do produto** | Como beneficio é esperado que diminua o numero de membros faltosos quando estao escalados, além da escala ser difundida com maior facilidade           |
 
 _O que o público-alvo espera **ganhar** com uma solução? Pense em tempo economizado, dor eliminada, ganho financeiro, sensação de controle, status, etc._
 
@@ -36,7 +36,7 @@ _Liste produtos ou serviços que já tentam resolver esse problema (total ou par
 | Solução         | Categoria (SaaS, app, serviço...) | Resolve bem? |
 |-----------------|-----------------------------------|--------------|
 |   Planning Center Services         |    serviço         |              |
-|    Escala Ministerial             |       aplicativo                       |              |
+|    Church digital           |       App                    |              |
 |                 |                                   |              |
 
 ---
@@ -45,8 +45,8 @@ _Liste produtos ou serviços que já tentam resolver esse problema (total ou par
 
 | Tipo                  | Nome | Diferencial |
 |-----------------------|------|-------------|
-| Concorrente direto 1  |      |             |
-| Concorrente direto 2  |      |             |
+| Concorrente direto 1  |  Planning Center Services     |   Pode ser integrado com serviços de liturgia, assim centralizando tudo de maneira mais eficiente           |
+| Concorrente direto 2  |      |   Church digital             | Foco em pequenos grupos
 | Concorrente indireto  |  Google Sheets / WhatsApp    |        escala manual     |
 
 ---
@@ -57,7 +57,7 @@ _Quais métricas indicam que o produto está resolvendo o problema? Inclua bench
 
 | Indicador          | O que mede              | Benchmark de mercado |
 |--------------------|-------------------------|----------------------|
-|       Percentual de confirmação de presença na escala.             |                         |                      |
+|      Percentual de confirmação de presença na escala.             |                         |                      |
 |      Redução de conflitos de escala              |                         |                      |
 |      Tempo gasto para montar a escala semanal              |                         |                      |
 
