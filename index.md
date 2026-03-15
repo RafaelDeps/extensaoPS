@@ -46,8 +46,8 @@ _Liste produtos ou serviços que já tentam resolver esse problema (total ou par
 | Tipo                  | Nome | Diferencial |
 |-----------------------|------|-------------|
 | Concorrente direto 1  |  Planning Center Services     |   Pode ser integrado com serviços de liturgia, assim centralizando tudo de maneira mais eficiente           |
-| Concorrente direto 2  |      |   Church digital             | Foco em pequenos grupos
-| Concorrente indireto  |  Google Sheets / WhatsApp    |        escala manual     |
+| Concorrente direto 2  |    Church digital   |     Foco em pequenos grupos          | 
+| Concorrente indireto  |  Google Sheets / WhatsApp    |        Escala manual     |
 
 ---
 
